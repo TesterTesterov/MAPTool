@@ -25,4 +25,4 @@ Bsi format is like string-patch on the elder of Ethornell games, it contains som
 
 Tested on [Adabana Odd Tales](https://vndb.org/v27457).
 
-Протестировано на [Странные сказки Адабаны](https://vndb.org/v27457).
+Протестировано на игре [Странные сказки Адабаны](https://vndb.org/v27457).
